@@ -4,6 +4,8 @@ Walkthrough https://www.tddphoenix.com/
 
 To start your Phoenix server:
 
+  * Mac User install chromedriver with `brew install --cask google-chrome && brew install --cask chromedriver`
+  * Mac User first run test case: open "System Preferences" -> "Security & Privacy" -> "General" -> "Click the lock to make changes" -> Clicking "Allow Anyway"
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.setup`
   * Install Node.js dependencies with `npm install` inside the `assets` directory
