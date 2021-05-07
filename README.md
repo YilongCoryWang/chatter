@@ -14,3 +14,7 @@ To start your Phoenix server:
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+
+Refs:
+
+https://timber.io/blog/building-a-real-time-app-with-phoenix/
