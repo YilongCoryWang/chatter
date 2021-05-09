@@ -35,6 +35,7 @@ defmodule Chatter.MixProject do
     [
       {:phoenix, "~> 1.5.4"},
       {:phoenix_ecto, "~> 4.1"},
+      {:doorman, "~> 0.6.2"},
       {:ecto_sql, "~> 3.4"},
       {:ex_machina, "~> 2.3", only: :test},
       {:postgrex, ">= 0.0.0"},
